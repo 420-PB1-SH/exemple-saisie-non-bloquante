@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <conio.h>		// Contient _kbhit et _getch
+#include <conio.h>	// Contient _kbhit et _getch
 #include <Windows.h>	// Contient Sleep
 
 using namespace std;
